@@ -8,4 +8,6 @@
 
 ### [3] Round av til nærmeste tier:
 
-
+```txt
+3 * 2
+```
