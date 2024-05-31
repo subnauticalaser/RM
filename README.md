@@ -6,10 +6,10 @@
 
 
 
-### [3] Round av til nærmeste tier:
+### [3] Rund av til nærmeste tier:
 
 
-#### first
+#### First
 ```txt
 67 ≈ '70'
 ```
@@ -19,3 +19,20 @@
 722 ≈ '720'
 ```
 
+
+
+### [4] Rund av til nærmeste hundre:
+
+
+#### First
+```txt
+693 ≈ '700'
+```
+
+#### Second
+```txt
+1982 ≈ '1900'
+```
+
+
+## B<sub>2</sub>
