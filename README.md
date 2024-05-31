@@ -9,8 +9,13 @@
 ### [3] Round av til nærmeste tier:
 
 
-#### [1]
+#### first
 ```txt
-67 ≈ 70
+67 ≈ '70'
+```
+
+#### Second
+```txt
+722 ≈ '720'
 ```
 
