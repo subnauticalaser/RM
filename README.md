@@ -6,7 +6,7 @@
 
 
 
-### [3] Rund av til nærmeste tier:
+### <sup>[3]</sup> Rund av til nærmeste tier:
 
 
 #### First
@@ -21,7 +21,7 @@
 
 
 
-### [4] Rund av til nærmeste hundre:
+### <sup>[4]</sup> Rund av til nærmeste hundre:
 
 
 #### First
@@ -36,3 +36,4 @@
 
 
 ## B<sub>2</sub>
+
