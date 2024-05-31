@@ -9,5 +9,5 @@
 ### [3] Round av til nærmeste tier:
 
 ```txt
-#### 2 * 5
+67 ≈ ____
 ```
